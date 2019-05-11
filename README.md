@@ -15,6 +15,10 @@
 笔者希望给正在选择IT培训机构，寻找进入这个美妙行业的朋友们一个第一视角的蜗牛学院。把这所机构优秀的，不完美的地方展示给大家。
 
 #### 正文内容
- -  [被开除当天的详细情况](https://github.com/woniu-daily/woniu-daily/blob/master/%E8%9C%97%E7%89%9B%E6%97%A5%E8%AE%B0-%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9.md)
  - [1到55天的日记](https://github.com/woniu-daily/woniu-daily/tree/master/%E6%97%A5%E8%AE%B0%E5%85%A8%E6%96%87)
+ - [被开除当天的详细情况](https://github.com/woniu-daily/woniu-daily/blob/master/%E8%9C%97%E7%89%9B%E6%97%A5%E8%AE%B0-%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9.md)
+ - [给邓强的公开信](https://github.com/woniu-daily/woniu-daily/blob/master/%E5%85%B6%E4%BB%96%E9%A1%B5%E9%9D%A2/%E7%BB%99%E9%82%93%E5%BC%BA%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1.md)
+ 
+ 
+
 

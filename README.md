@@ -16,3 +16,5 @@
 
 #### 正文内容
  -  [被开除当天的详细情况](https://github.com/woniu-daily/woniu-daily/blob/master/%E8%9C%97%E7%89%9B%E6%97%A5%E8%AE%B0-%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9.md)
+ - [1到56天的日记](https://github.com/woniu-daily/woniu-daily/tree/master/%E6%97%A5%E8%AE%B0%E5%85%A8%E6%96%87)
+
